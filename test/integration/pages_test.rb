@@ -8,7 +8,7 @@ class PagesTest < ActionDispatch::IntegrationTest
     assert_response :success
   end
 
-  test 'should get roo' do
+  test 'should get root' do
     get root_url
     assert_response :success
   end
