@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  chef: one
+  name: MyString
+  description: MyString
+  state: MyString
+
+two:
+  chef: two
+  name: MyString
+  description: MyString
+  state: MyString
