@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  cher: one
+  name: MyString
+  description: MyString
+  state: MyString
+
+two:
+  cher: two
+  name: MyString
+  description: MyString
+  state: MyString
